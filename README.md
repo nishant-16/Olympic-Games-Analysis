@@ -65,5 +65,6 @@ The finsished dashboard consist of visualization and filters that gives an easy 
 
 #### **Click the picture to open the dashboard and try it out!**
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
+<a href="https://public.tableau.com/views/Olympic_data_16297192126210/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">
+  <img src="pics/Pic 2.png" alt="Olympic Dashboard" width="800" height="500" />
+</a>

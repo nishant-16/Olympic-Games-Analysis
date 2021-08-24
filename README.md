@@ -2,7 +2,7 @@
 
 
 ## Business Problem
-The challenge for thos data analyst project is outlined below. This has been used continously to enure that the right data has been selected, transformed and used in the data visualization which is meant to be passed on the business users.
+The challenge for those data analyst project is outlined below. This has been used continously to enure that the right data has been selected, transformed and used in the data visualization which is meant to be passed on the business users.
 
 **"As a data analyst working at news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games.**
 
